@@ -17,4 +17,4 @@ jobs:
         with:
           channel: 'dev'
       - run: flutter --version
-      - uses: jelavallee/flutter-gh-pages@v1.1
+      - uses: jelavallee/flutter-gh-pages@v1.1.1
